@@ -82,7 +82,7 @@ The code and datasets are not publicly accessible and can be obtained upon reque
 By using this dataset, you agree to cite the following article: 
 
 ```
-@inproceedings{cirillo2024ethical,
+@inproceedings{cirillo2025ethical,
   title={A Safety-aware Jailbreak Approach to Bypass Security Filters]{A Safety-aware Jailbreak Approach to Bypass Security Filters for Generating Harmful Media with Text-to-Image models},
   author={Cirillo, S., De Santis, L., Francese, R. and Solimando, G.},
   booktitle={TBD},
