@@ -83,9 +83,9 @@ By using this dataset, you agree to cite the following article:
 
 ```
 @inproceedings{cirillo2024ethical,
-  title={Can Multimodal LLMs Generate Unsafe Media? A New Approach to Explore Risks using LLMs and Projected Gradient Descent},
+  title={A Safety-aware Jailbreak Approach to Bypass Security Filters]{A Safety-aware Jailbreak Approach to Bypass Security Filters for Generating Harmful Media with Text-to-Image models},
   author={Cirillo, S., De Santis, L., Francese, R. and Solimando, G.},
   booktitle={TBD},
-  year={2024}
+  year={2025}
 }
 ```
